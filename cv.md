@@ -27,6 +27,30 @@ I worked as a Frontend Developer at EPAM. After a career break, I want to refres
 
 ### Code Examples
 
+```
+function nod(a, b) {
+  while (b) [a, b] = [b, a % b];
+  return a;
+}
+function nok(a, b) {
+  return (a / nod(a, b)) * b;
+}
+
+function nokRange(arr) {
+  let sortedArr = arr.slice().sort((a, b) => a - b);
+  let rangedArr = [];
+
+  for (let i = sortedArr[0]; i <= sortedArr[1]; i++) {
+    rangedArr.push(i);
+  }
+
+  let result = rangedArr.reduce((acc, n) => nok(acc, n));
+  return result;
+}
+
+nokRange([23, 18]);
+```
+
 ### Experience
 
 ##### Web Software Developer
