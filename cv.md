@@ -6,6 +6,9 @@
 1. Location: Lisbon, Portugal
 2. Phone: +351 913398262
 3. Email: anastasiya.yelkhovenka@gmail.com
+4. LinkedIn: [Anastasiya Yelkhovenka](https://www.linkedin.com/in/anastasiyayelkhovenka/)
+5. GitHub: [Anastasiya Yelkhovenka](https://github.com/AnastasiyaYelkhovenka)
+6. Discord: nickname (@AnastasiyaYelkhovenka)
 
 ### About
 
